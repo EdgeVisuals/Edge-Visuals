@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="160 160 760 930">
+  <defs>
+    <mask id="facet-cut">
+      <rect x="160" y="160" width="760" height="930" fill="white"/>
+      <path fill="black" d="M445 906 535 1018 625 906h-40l-50 64-50-64Z"/>
+    </mask>
+  </defs>
+  <g fill="#f1eee7" mask="url(#facet-cut)">
+    <path d="m535 820 135 110-135 135-135-135Z"/>
+    <g transform="rotate(-90 535 545)">
+      <path d="m790 190-60 115H430c-92 0-130 45-130 133v214c0 88 38 133 130 133h300l60 115H430c-190 0-250-105-250-248V438c0-143 60-248 250-248Z"/>
+      <path d="m180 548 120-58h525l67 58-67 58H300Z"/>
+    </g>
+  </g>
+</svg>
