@@ -8,9 +8,9 @@ import { faqItems, instagram } from "./content";
 import { ShowcaseCarousel } from "./showcase";
 
 const reactions = [
-  { text: "Ma che caz*… O.O", meta: "adesso · rispondi" },
-  { text: "Aspetta, COME l’hai fatto?!", meta: "18 s · rispondi" },
-  { text: "Quel taglio sul beat 🔥", meta: "1 min · rispondi" },
+  { text: "Brutale bro..", meta: "adesso · rispondi" },
+  { text: "Continua così!", meta: "5m · rispondi" },
+  { text: "Ecco il KING! 🔥", meta: "1 min · rispondi" },
   { text: "ok, rivisto 4 volte ahah", meta: "2 min · rispondi" },
 ];
 
@@ -165,6 +165,7 @@ export default function Home() {
               </span>
             </h1>
             <p className="hero-intro">
+              Il problema non è ciò che dici. È se chi guarda resta abbastanza a lungo da capirlo.
               Edge Visuals trasforma podcast, interviste e riprese grezze in Reel, TikTok e YouTube Shorts
               che si fanno notare dal primo secondo, mantengono il ritmo e rendono riconoscibile il tuo modo di comunicare.
             </p>
